@@ -1,0 +1,20 @@
+name: Weapons
+version: ${project.version}
+main: de.zemox.weapons.Main
+api-version: 1.15
+authors: [Zemox]
+description: A Plugin for Weapons
+
+commands:
+  knockbackweapon:
+    description: Gives the player a KnockbackWeapon
+  healerweapon:
+    description: This heals the player
+  slamweapon:
+    description: This sword will launch you
+  explodingpickaxe:
+    description: This Pickaxe will explode
+  grapplerbow:
+    description: This Bow will Launch you towards where you shoot
+  opengui:
+    description: Opens the slayer GUI
